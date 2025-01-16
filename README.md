@@ -52,5 +52,11 @@ I started in high-level development with Python, but my curiosity for system-lev
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarashekShaun&layout=compact&theme=synthwave)
+
+---
+
 ### 🌐 Let’s Connect!
 - 💌 Telegram: **BarashekShaun**
