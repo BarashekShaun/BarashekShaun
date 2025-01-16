@@ -22,9 +22,8 @@ I'm a backend enthusiast who enjoys diving deep into code and figuring out how t
 - **C String+**: *(Coming soon to GitHub!)*
 - **C Decimal**:  *(Coming soon to GitHub!)*
 
----
 
-#### Data Science
+#### 📈 Data Science
 - **[Data Science Jupyter Notebooks](https://github.com/BarashekShaun/YandexPracticum):** Learning the basics of Data Science on a course from Yandex Practicum
 
 ---
