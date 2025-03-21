@@ -26,6 +26,8 @@ I'm a backend enthusiast who enjoys diving deep into code and figuring out how t
 #### 📈 Data Science
 - **[Data Science Jupyter Notebooks](https://github.com/BarashekShaun/YandexPracticum):** Learning the basics of Data Science on a course from Yandex Practicum
 
+#### Just for fun
+- **[SteelSeries System Monitor](https://github.com/BarashekShaun/System_Monitor_Steelseries)
 ---
 
 ### 🛠 Skills at a Glance
