@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Alina — Backend Developer on a Mission 🚀
+# Hi there! 👋 I'm Alina.
 
 ### About Me
-I'm a backend enthusiast who enjoys diving deep into code and figuring out how things work under the hood. I started my journey with **Python**, learning frameworks like **Django** and **FastAPI**, and now I'm sharpening my skills in **C** and **C++** to understand low-level programming. My next goal is to master **Go** and build reliable backend systems.
+I'm a backend enthusiast who enjoys diving deep into code and figuring out how things work under the hood.
 
 - 🧰 **What I do**:
   - Create clean, maintainable code that solves real problems (or at least I’m working on it!).
@@ -31,11 +31,11 @@ I'm a backend enthusiast who enjoys diving deep into code and figuring out how t
 ---
 
 ### 🛠 Skills at a Glance
-- **Languages**: Python, C, C++, Bash (learning Go soon!).
+- **Languages**: Python, C, C++, Bash, Javascript.
 - **Frameworks**: Django, FastAPI, Flask.
-- **Tools**: Docker, GitLab CI/CD.
+- **Tools**: Docker, GitLab and Jenkins CI/CD.
 - **Databases**: PostgreSQL, SQLite.
-- **Testing**: Writing unit tests for reliability.
+- **Testing**: Pytest, Allure.
 - **Linux**: Server management and scripting.
 - **Version Control**: Git (branching, pull requests, reviews).
 
